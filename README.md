@@ -6,9 +6,9 @@ My name is Daniel, and I'm:
 - 💻 Looking to swap fields so I can become a Fullstack Dev
 - 📓 Currently studying Java
 
-![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=danil-mokoena&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danil-mokoena&layout=compact&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danil-mokoena&layout=compact)
+![Danil's GitHub stats](https://github-readme-stats.vercel.app/api?username=danil-mokoena&show_icons=true&theme=dark)
 
 <!--
 **danil-mokoena/danil-mokoena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
