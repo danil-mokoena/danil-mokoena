@@ -3,7 +3,7 @@
 My name is Daniel, and I'm:
 
 - 💊 Currently working as a pharmacist
-- 💻 Looking to swap fields so I can become a Fullstack Dev
+- 💻 Looking to start working as a Fullstack Dev
 - 📓 Currently studying Java
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danil-mokoena&layout=compact&theme=dracula)
